@@ -1,2 +1,3 @@
 # Hello-World
 I am collecting ideas to evaluate web application from a user viewpoint
+All commets are welcome. We have forty plus users that interact with a tax application. All are volunteers. I hope to identify trouble spots and to work to provide better training for those needing help. Also, I am hoping to find efficient ways to interact with the application. It is not possible to make any changes to the application. My first attempt was to use Chrome Cache file as the raw data. The application is form based. If the form could be identified it would be possible to identify form which consume most time and energy.
